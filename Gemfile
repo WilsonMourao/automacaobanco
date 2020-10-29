@@ -1,0 +1,10 @@
+source "http://rubygems.org"
+
+gem "capybara", "3.33"
+gem "cucumber", "5.2"
+gem "selenium-webdriver", "3.142.7"
+gem "rspec", "3.9"
+gem "rubocop", "1.0"
+gem "site_prism", "3.7"
+gem "rufo", "0.12.0"
+gem "report_builder", "1.9"
